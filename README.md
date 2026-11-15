@@ -10,7 +10,7 @@ I have 10+ years of experience across software engineering, enterprise database 
 
 - **Enterprise databases:** SAP IQ / Sybase IQ, PostgreSQL, MySQL, SQL
 - **Automation and scripting:** Python, Perl, Shell
-- **Backend and data workflows:** Node.js, ETL, data migration
+- **Backend and data workflows:** ETL, data migration
 - **Engineering operations:** Production troubleshooting, root-cause analysis, reliability
 - **Tools:** Git, Jenkins, JIRA, Confluence, Apache Solr
 - **Applied GenAI:** AI-assisted development and practical engineering workflows
