@@ -1,0 +1,8 @@
+2026-11-15 10:02:03 INFO application started
+2026-11-15 10:02:04 INFO database connection pool initialised
+2026-11-15 10:02:05 ERROR database Connection 504 timed out
+2026-11-15 10:02:06 ERROR database Connection 505 timed out
+2026-11-15 10:02:07 WARN retry scheduled after transient failure
+2026-11-15 10:02:08 CRITICAL worker process exited unexpectedly
+2026-11-15 10:02:09 INFO health check completed
+This is a synthetic unstructured example line and will be counted as unparsed.
