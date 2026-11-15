@@ -21,7 +21,7 @@ This portfolio will grow through small, documented projects using synthetic or p
 
 | Project | Purpose | Status |
 |---|---|---|
-| Log Analysis & RCA Utility | Parse sample logs, group errors, and produce a concise report | Planned |
+| [Log Analysis & RCA Utility](log-analysis-rca/) | Parse synthetic logs, count severities, and group repeated error patterns | Initial prototype added |
 | Database Health Check Toolkit | Demonstrate database checks using a local sample database | Planned |
 | Operational Automation Toolkit | Reusable file, validation, and reporting scripts | Planned |
 | SQL Performance Lab | Safe, reproducible SQL examples and query-analysis notes | Planned |
